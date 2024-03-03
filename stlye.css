@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+}
+figcaption {
+    display: flex;
+    margin-left: 1230px;
+
+}
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo {
+    display: block;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    margin-left: 32px;
+
+}
+
+.sub-titulo {
+    display: grid;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: -11px;
+}
+p {
+    display: block;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    margin-left: 32px;
+}
